@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation, commanding all sea-men and mariners to return to their service in His Majesties Navy, by the 20th day of February next.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19403</idno><idno type="EEBO-CITATION">99884451</idno>
+  <idno type="VID">192492</idno>
+  <idno type="EEBO-PROQUEST">2248519062</idno>
+  
+            <idno type="STC">Wing C3245</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[33]</idno>
+            <idno type="STC">ESTC R214902</idno>
+            <idno type="PROQUEST">ocm99884451</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884451e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192492)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[157])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation, commanding all sea-men and mariners to return to their service in His Majesties Navy, by the 20th day of February next.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Leonard Lichfeild printer to the University, for John Bill, and Christopher Barker, printers to His Majesty,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>anno Dom. 1665. [i.e. 1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Because the printers' name is spelled Lichfeild instead of Lichfield, "it seems likely that the King's Printers printed [this], perhaps at Oxford on a press sent down from London"--cf. Madan, III, 2731.</note>
+                  <note>"Given at our court at Oxford the 8th day of January, 1665. in the Seventeenth Year of Our Reign.".</note>
+                  <note>Years are given according to Lady Day dating.</note>
+                  <note>Arms 76; Steele notation: His doth deserve.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192492:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <byline>BY THE KING.</byline>
+            <head>A PROCLAMATION, Commanding all Sea-men and Mariners to return to their Service in His Majesties Navy, by the 20<seg rend="sup">th</seg> Day of <hi>February</hi> next.</head>
+            <opener>
+               <signed>CHARLES REX,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most Excellent Majesty taking notice, That since the return of His Fleet into Harbor, many Sea-men have, as well without, as with leave from their Officers, departed from the several Ships to which they belonged, which was the rather connived at by the said Officers, in regard the Winter coming on, there could be but little Action; and that such might in that time enjoy the society of their Families, and have care off and pursue their own Affairs. But now the time and season for Service approaching, His Majesty hath thought fit, and doth by this His Proclamation (by and with the Advice of His Privy Councel) strictly charge and command, That all and every Sea-man and Mariner, who either by or without leave have gone from their Service, in any the Ships serving in His Majesties Navy in the last Summers Imployment (except such as have been discharged for infirmity of Body, as incapable of doing His Majesty Service) do return unto the said Ships, in case they are in the Harbor or in the Channel; or otherwise to enter and list themselves in some other of His Majesties Ships that are in Harbor, by or before the Twentieth Day of <hi>February</hi> next. And for the better Encouragement of such as shall return accordingly, His Majesty is gratiously pleased, and doth hereby Declare His Pleasure to be, That e<g ref="char:EOLhyphen"/>very Sea-man and Mariner that shall return or be listed as aforesaid, shall have his Wages duly paid him for the time he served aboard, notwithstanding he departed without leave: But if any Sea-man or Mariner who served in the late Expedition (except before excepted) shall not return or be listed ac<g ref="char:EOLhyphen"/>cording to the tenor of this Proclamation, they and every of them, shall not onely loose all the Wa<g ref="char:EOLhyphen"/>ges that are due unto them, but shall be proceeded against by a Court Martial, according to the Articles &amp; Orders published for the regulating and better Government of His Majesties Navies &amp; Ships of War. And to that end, His Majesty doth hereby strictly charge and command, All Justices of the Peace, Majors, Sheriffs, Bayliffs, Constables, and other His Majesties Officers whom it may any way concern, to cause and take care, That all such Mariners and Sea-men who served in any of His Majesties Ships of War the last Summer (except such as have been discharged as incapable of doing service) and shall not return to the Ships wherein they then served, or be listed into some other, by or before the said Twentieth Day of <hi>February</hi> next, be Apprehended and Imprisoned, and then signifie the same to His Majesty, that so they may be proceeded against by a Court Martial as aforesaid. His Majesty hereby also willing and requiring, All Masters and Owners of Ships and Vessels, to forbear to entertain or take into their Ships or Vessels, any Mariners or Sea-men who have in the last Summers service been employed in any of His Majesties ships of War, upon pain of His high displeasure, &amp; such further punishment as their Offences may deserve.</p>
+            <closer>
+               <dateline>Given at Our Court at Oxford <date>the 8<hi>th</hi> Day of <hi>January,</hi> 1665. in the Seventeenth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING:</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>OXFORD:</hi> Printed by <hi>Leonard Lichfeild</hi> Printer to the University, For <hi>John Bill,</hi> and <hi>Christopher Barker,</hi> Printers to His Majesty, <hi>Anno Dom.</hi> 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
